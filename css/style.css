@@ -34,6 +34,20 @@
 		z-index: 0;
 	}
 
+	.btn-whatsapp {
+        display:block;
+        width:150px;
+        height:70px;
+        color#fff;
+        position: fixed;
+        right:20px;
+        bottom:20px;
+        border-radius:50%;
+        line-height:80px;
+        text-align:center;
+        z-index:999;
+	}
+
 
 	.caption-style-4 .caption{
 		cursor: pointer;
